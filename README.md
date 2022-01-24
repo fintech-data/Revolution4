@@ -8,7 +8,7 @@
 
 
 #### **데이터 불러오기**
-<pre><code>loan = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution4/main/data/loan.csv')
+<pre><code>loan = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution4/main/loan.csv')
 </code></pre>
 
 ## **#2 계좌 정보 데이터**
